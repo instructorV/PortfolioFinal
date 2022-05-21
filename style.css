@@ -1,0 +1,98 @@
+h1{
+    color: red; 
+    text-align:center;
+    
+} 
+
+h2{
+    color: rgb(161, 41, 101); 
+    
+} 
+
+p{
+   color: rgb(28, 134, 187);
+  
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(188, 188, 93);
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.games{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.name{
+    margin-top: 10px;
+}
+
+th,td{
+    border-style:groove;
+    border-radius: 10px;
+    
+}
+
+table{
+    background-color: aquamarine;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: rgb(255, 106, 3) 
+}
+
+.games img:hover{
+    opacity: 1;
+   
+}
+
+.games img{
+    opacity:0.5
+}
+
+.details{
+    margin-top: 30px;
+}
+
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
